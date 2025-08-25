@@ -52,7 +52,7 @@ const AboutPage = () => {
             <span className='text-emerald-600 dark:text-emerald-400'>AI</span>
           </h2>
           <p className='text-lg md:text-xl text-gray-700 dark:text-gray-300 leading-relaxed max-w-3xl mx-auto'>
-            Experience next-generation financial management with BudgetBee's advanced AI algorithms. Our platform delivers precision expense tracking, intelligent categorization, and personalized financial strategies tailored to your unique spending patterns and goals.
+            Experience next-generation financial management with BudgetBee advanced AI algorithms. Our platform delivers precision expense tracking, intelligent categorization, and personalized financial strategies tailored to your unique spending patterns and goals.
           </p>
           <div className='mt-10 grid grid-cols-1 md:grid-cols-3 gap-6'>
             <div className='bg-gradient-to-br from-emerald-50 to-green-50 dark:from-emerald-900/30 dark:to-green-900/30 p-6 rounded-2xl border border-emerald-100 dark:border-emerald-700/50 shadow-lg dark:shadow-emerald-900/20'>
@@ -174,7 +174,7 @@ const AboutPage = () => {
                 BudgetBee was engineered with a clear mission: to revolutionize financial management through advanced artificial intelligence and intuitive design. Our multidisciplinary team of financial experts, machine learning engineers, and UX specialists collaborated to create a sophisticated platform that delivers enterprise-grade financial intelligence to every user.
               </p>
               <p className='text-lg text-gray-700 dark:text-gray-300 leading-relaxed'>
-                Since inception, we've empowered over 15,000 professionals to achieve superior financial control through data-driven insights and automated optimization. Our platform architecture prioritizes both user experience and analytical depth, ensuring that sophisticated financial management remains accessible and actionable for modern professionals.
+                Since inception, we have empowered over 15,000 professionals to achieve superior financial control through data-driven insights and automated optimization. Our platform architecture prioritizes both user experience and analytical depth, ensuring that sophisticated financial management remains accessible and actionable for modern professionals.
               </p>
 
               <div className='flex items-center gap-4 pt-4'>
@@ -241,7 +241,7 @@ const AboutPage = () => {
 </h2>
 
 <p className='text-xl md:text-2xl mb-10 text-gray-700 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed'>
-  Join thousands of professionals who have transformed their financial management with BudgetBee's AI-powered platform. Experience the future of intelligent budgeting and strategic financial planning.
+  Join thousands of professionals who have transformed their financial management with BudgetBee AI-powered platform. Experience the future of intelligent budgeting and strategic financial planning.
 </p>
 
           <div className='flex flex-col sm:flex-row gap-6 justify-center items-center'>

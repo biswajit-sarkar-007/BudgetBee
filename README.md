@@ -60,7 +60,7 @@ A modern, full-stack expense tracking application built with Next.js, TypeScript
    DATABASE_URL="your_database_connection_string"
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="your_clerk_publishable_key"
    CLERK_SECRET_KEY="your_clerk_secret_key"
-   OPENAI_API_KEY="your_openai_api_key"
+   OPENROUTER_API_KEY="your_openrouter_api_key"
    ```
 
 4. **Set up the database**

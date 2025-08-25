@@ -4,6 +4,8 @@ import { SignInButton, SignedIn, SignedOut, UserButton } from '@clerk/nextjs';
 import Link from 'next/link';
 import ThemeToggle from '@/components/ThemeToggle';
 import { useState } from 'react';
+import Image from "next/image";
+
 
 export default function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -31,7 +33,7 @@ export default function Navbar() {
                 {/* <span className='text-white text-xs sm:text-sm md:text-lg font-bold'>
                   💰
                 </span> */}
-                <img src="/images/logo.jpg" alt="budgetBee" className='w-full h-full   object-contain '  />
+                <Image src="/images/logo.jpg" alt="budgetBee" className='w-full h-full   object-contain '  width={40} height={40} />
               </div>
               <span className='text-sm sm:text-base md:text-lg lg:text-xl font-bold bg-gradient-to-r from-emerald-600 via-green-500 to-teal-500 bg-clip-text text-transparent'>
                 <span className='hidden sm:inline'>BudgetBee</span>
