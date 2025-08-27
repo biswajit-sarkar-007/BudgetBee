@@ -18,7 +18,7 @@ A modern, full-stack expense tracking application built with Next.js, TypeScript
 - **Database**: Prisma ORM
 - **Authentication**: Clerk
 - **Charts**: Chart.js with react-chartjs-2
-- **AI**: OpenAI API integration
+- **AI**: OpenaRouterAI API integration
 
 ## Project Structure
 
@@ -88,7 +88,7 @@ A modern, full-stack expense tracking application built with Next.js, TypeScript
 - `DATABASE_URL` - Database connection URL
 - `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` - Clerk publishable key for authentication
 - `CLERK_SECRET_KEY` - Clerk secret key
-- `OPENAI_API_KEY` - OpenAI API key for AI-powered insights
+- `OPENROUTERAI_API_KEY` - OpenrouterAI API key for AI-powered insights
 
 ## Contributing
 
@@ -98,9 +98,7 @@ A modern, full-stack expense tracking application built with Next.js, TypeScript
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
